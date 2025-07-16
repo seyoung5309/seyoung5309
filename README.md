@@ -1,4 +1,4 @@
-## Hi there 👋
+## 안녕하세요? 오세영입니다:D
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=color=random&height=높이&section=header&text=Hello!%20)
 
