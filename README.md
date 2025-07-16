@@ -1,6 +1,7 @@
-## 안녕하세요? 오세영입니다:D
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=color=random&height=높이&section=header&text=Hello!%20)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:b6e4ec,100:30448c&height=250&section=header&text=Hello:D)
+
+<h3 class = "t">백엔드, 서버 기타 등등.. 무언가의 개발자 지망생입니다!</h3>
 
 <!--
 **seyoung5309/seyoung5309** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
