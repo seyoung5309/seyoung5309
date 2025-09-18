@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:b6e4ec,100:30448c&height=250&section=header&text=Hello:D)
 ---
 
-### 백엔드 개발자 지망생입니다!
+### 원리를 탐구하고 이해하며 나아가는 개발자 오세영입니다:D
 
 ---
 
