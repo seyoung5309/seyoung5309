@@ -3,25 +3,28 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:b6e4ec,100:30448c&height=250&section=header&text=Hello:D)
 ---
 
-### 원리를 탐구하고 이해하며 나아가는 개발자 오세영입니다:D
+### 원리를 이해하며 성장하는 개발자 오세영입니다:D
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seyoung5309&layout=donut-vertical&cache_seconds=86400)](https://github.com/anuraghazra/github-readme-stats)
+<table border="0">
+  <tr>
+    <td>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seyoung5309&layout=donut-vertical&cache_seconds=86400" />
+      </a>
+    </td>
+    <td align="center">
+      <h3>Backend</h3>
+      <img src="https://skillicons.dev/icons?i=c,cpp,java,py,mysql" /><br>
+      <h3>Frontend</h3>
+      <img src="https://skillicons.dev/icons?i=html,css,js" /><br>
+      <h3>etc.</h3>
+      <img src="https://skillicons.dev/icons?i=linux,ubuntu,figma,r" />
+    </td>
+  </tr>
+</table>
 
 ---
-
-[![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@seyoung5309)
-<img src="https://img.shields.io/badge/java-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white" />
-![Linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=white)
-![VirtualBox](https://img.shields.io/badge/virtualbox-2F61B4?style=for-the-badge&logo=virtualbox&logoColor=white)
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white)
-
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visualstudiocode%20studio%20code&logoColor=white)
 
 </div>
-
----
