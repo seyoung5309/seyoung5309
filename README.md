@@ -12,10 +12,8 @@
       <td align="center">
         <h3>System</h3>
         <img src="https://skillicons.dev/icons?i=c,cpp" /><br>
-        <h3>Backend</h3>
-        <img src="https://skillicons.dev/icons?i=java,mysql,supabase,py" /><br>
-        <h3>Frontend</h3>
-        <img src="https://skillicons.dev/icons?i=html,css,js" /><br>
+        <h3>Full Stack</h3>
+        <img src="https://skillicons.dev/icons?i=html,css,js,java,py,mysql,supabase" /><br>
         <h3>etc.</h3>
         <img src="https://skillicons.dev/icons?i=linux,ubuntu,figma,r" />
       </td>
