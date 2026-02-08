@@ -1,10 +1,11 @@
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:b6e4ec,100:30448c&height=250&section=header&text=Welcome:D" 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:b6e4ec,100:30448c&height=250&section=header&text=Hello:D" 
   width="100%"
   alt="header" 
   style="display:block; margin:auto;" />
 <hr>
-<h2 align="center">원리를 이해하며 성장하는 개발자 오세영입니다:D</h2>
+<p align="center">원리를 이해하며 성장하는 개발자, 오세영입니다</p>
+<p align="center">시스템 소프트웨어 개발자, 백엔드 개발자를 지망합니다.</p>
 <hr>
 <div style="width:100%">
   <table border="0" align="center" style="table-layout: fixed;">
@@ -27,6 +28,4 @@
     </tr>
   </table>
 </div>
-<hr>
-<h3>시스템 소프트웨어 / 백엔드 지망</h3>
 <hr>
