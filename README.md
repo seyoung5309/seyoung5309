@@ -3,7 +3,7 @@
   width="100%"
   alt="header" 
   style="display:block; margin:auto;" />
-<hr>dd
+<hr>
 <p align="center">원리를 이해하며 성장하는 개발자, 오세영입니다</p>
 <p align="center">시스템 소프트웨어 개발자, 백엔드 개발자를 지망합니다.</p>
 <hr>
