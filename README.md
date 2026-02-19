@@ -8,13 +8,13 @@
 <p align="center">시스템 소프트웨어 개발자, 백엔드 개발자를 지망합니다.</p>
 <hr>
 <div style="width:100%">
-  <table border="0" align="center" style="table-layout: fixed;">
+  <table border="0" align="center" style="table-layout: fixed; width:100%">
     <tr>
       <td align="center">
-        <h3>System</h3>
-        <img src="https://skillicons.dev/icons?i=c,cpp" /><br>
+        <h3>Language</h3>
+        <img src="https://skillicons.dev/icons?i=c,cpp,java,py" /><br>
         <h3>Full Stack</h3>
-        <img src="https://skillicons.dev/icons?i=html,css,js,java,py,mysql,supabase" /><br>
+        <img src="https://skillicons.dev/icons?i=html,css,js,mysql,supabase" /><br>
         <h3>etc.</h3>
         <img src="https://skillicons.dev/icons?i=linux,ubuntu,figma,r" />
       </td>
