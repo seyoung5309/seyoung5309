@@ -21,7 +21,9 @@
       <td align="center">
         <a href="https://github.com/anuraghazra/github-readme-stats">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seyoung5309&layout=donut-vertical&cache_seconds=86400" alt="기술 스택           원형 그래프" /><br>
-        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=seyoung5309" alt="[Solved.ac 프로필](https://solved.ac/profile/seyoung5309)" target="_blank"/>
+        <a href="https://solved.ac/seyoung5309" target="_blank">
+          <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=seyoung5309" alt="[Solved.ac 프로필](https://solved.ac/profile/seyoung5309)" target="_blank"/>
+        </a>
       </td>
     </tr>
   </table>
