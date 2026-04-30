@@ -12,9 +12,11 @@
     <tr>
       <td align="center">
         <h3>Language</h3>
-        <img src="https://skillicons.dev/icons?i=c,cpp,java,py,dart" /><br>
+        <img src="https://skillicons.dev/icons?i=c,cpp,java,py" /><br>
         <h3>Full Stack</h3>
         <img src="https://skillicons.dev/icons?i=html,css,js,mysql,supabase" /><br>
+        <h3>App</h3>
+        <img src="https://skillicons.dev/icons?i=dart,flutter" /><br>
         <h3>etc.</h3>
         <img src="https://skillicons.dev/icons?i=linux,ubuntu,figma,r" />
       </td>
