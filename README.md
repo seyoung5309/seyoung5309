@@ -22,10 +22,11 @@
 
 <h2>Tool & Design</h2>
 <p>
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=Visual%20Studio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=VisualStudio&logoColor=white"/>
   <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=IntelliJ%20IDEA&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>
 </p>
 
@@ -40,7 +41,11 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/>
   <img src="https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=virtualbox&logoColor=white"/>
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=GoogleCloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/>
 </p>
+
+<h1></h1>
 
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=seyoung5309&utm_content=farm">
 <img
@@ -50,9 +55,13 @@
 />
 </a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seyoung5309&layout=donut-vertical&cache_seconds=86400" alt="기술 스택             원형 그래프" />
-
+<h1></h1>
+  
 <a href="https://solved.ac/seyoung5309" target="_blank">
   <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=seyoung5309" alt="[Solved.ac 프로필](https://solved.ac/profile/seyoung5309)" target="_blank"/>
-  </a>
+</a>
+
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seyoung5309&layout=donut-vertical&cache_seconds=86400" alt="기술 스택             원형 그래프" />
+</a> -->
+
