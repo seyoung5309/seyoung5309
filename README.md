@@ -57,11 +57,20 @@
 
 <h1></h1>
   
-<a href="https://solved.ac/seyoung5309" target="_blank">
-  <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=seyoung5309" alt="[Solved.ac 프로필](https://solved.ac/profile/seyoung5309)" target="_blank"/>
-</a>
+<table align="center">
+  <td>
+     <a href="https://solved.ac/seyoung5309" target="_blank">
+      <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=seyoung5309" alt="[Solved.ac 프로필](https://solved.ac/profile/seyoung5309)" target="_blank"/>
+    </a>
+  </td>
+  <td>
+    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=seyoung5309&layout=compact&langs_count=6&theme=tokyolight" height="170"/>
+  </td>  
+  <td>
+    <img src="https://github-readme-stats-fast.vercel.app/api?username=seyoung5309&show_icons=true&theme=tokyolight" height="170"/>
+  </td>
+</table>
 
 <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seyoung5309&layout=donut-vertical&cache_seconds=86400" alt="기술 스택             원형 그래프" />
-</a> -->
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seyoung5309&layout=donut-vertical&cache_seconds=86400" alt="기술 스택             원형 그래프" />
+</a>-->
